@@ -13,18 +13,6 @@
    -CSS
    -Git e Github
 
-   ## Contato 
-   <button class=link-button>
-   <a target=_blank href=="https://www.instagram.com/ninaviana6/"> 
-              Instagram
-   </a>
-   </button>
-   
-     .link-button{
-      background-color:#9572fc;
-      otline:none;
-      border:none;
-
-     }
+     
  
 
