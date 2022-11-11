@@ -5,7 +5,7 @@
    Projeto construido do evento Next Level 
    Week  da Rocketseat.
 
-   [Acesse agora](://imarinaapereira.github.io/esports-explorer/) 
+   [Acesse agora](https://imarinaapereira.github.io/esports-explorer/) 
 
    ## Tecnologias
    
